@@ -1,3 +1,1 @@
-import withCurrentFile from '../../containers/withCurrentFile';
-
-export default withCurrentFile;
+export {default} from '../../containers/withCurrentFile';
