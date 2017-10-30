@@ -2,7 +2,7 @@
   "name": "hoc-all-the-things",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ijsnow.me",
+  "homepage": "https://ijsnow.me/sourcegraph",
   "dependencies": {
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
