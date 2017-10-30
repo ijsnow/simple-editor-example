@@ -15,7 +15,7 @@ ADD ./src /src/app/src
 ADD ./bin /src/app/bin
 ADD ./public /src/app/public
 
-EXPOSE 3000
+EXPOSE 3001
 
 RUN ./node_modules/.bin/react-scripts build
 
