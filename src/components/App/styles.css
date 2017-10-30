@@ -1,0 +1,25 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.top {
+  flex: 1;
+
+  display: flex;
+  align-items: center;
+  padding: 0px 20px;
+}
+
+.left {
+  display: flex;
+  flex: 12;
+
+  border-top: 1px solid #77B6EA;
+}
+
+.left > .FileTree {
+  border-right: 1px solid #77B6EA;
+}
+

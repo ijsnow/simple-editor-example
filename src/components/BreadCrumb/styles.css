@@ -1,0 +1,19 @@
+.BreadCrumb, .crumbs {
+  display: flex;
+  flex-direction: row;
+}
+
+.arrow {
+  font-size: 1.5em;
+  margin: 0px 8px;
+}
+
+.BreadCrumb button {
+  background: transparent;
+  border: none;
+  outline: none;
+}
+
+.BreadCrumb button:hover .name {
+  border-bottom: 1px solid black;
+}

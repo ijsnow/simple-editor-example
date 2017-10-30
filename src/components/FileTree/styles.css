@@ -1,0 +1,24 @@
+.FileTree {
+  flex: 1;
+}
+
+.FileTree .li {
+  padding-left: 20px;
+  border: none;
+  border-bottom: 1px solid #77B6EA;
+}
+
+.FileTree button {
+  border: none;
+  outline: none;
+  background: transparent;
+}
+
+.FileTree .fs-item {
+  font-size: 1.25em;
+}
+
+.FileTree .fs-item span {
+  margin-left: 5px;
+  font-size: 1.5em;
+}
